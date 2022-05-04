@@ -1,0 +1,3 @@
+input_file: "LC08_L1TP_065045_20211205_20211215_02_T1_QA_PIXEL.TIF"
+min_spin_time: 20
+max_spin_time: 40
