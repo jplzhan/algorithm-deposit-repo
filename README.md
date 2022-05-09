@@ -1,4 +1,4 @@
-# downsample-landsat (Edit 24)
+# downsample-landsat (Edit 1)
 Example CWL workflow calling a papermilled notebook.
 
 ## Run Jupyter Lab to view, edit and/or execute the algorithm notebook:
